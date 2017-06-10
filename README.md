@@ -18,14 +18,16 @@
 
 ### Linear Algebra ###
 
-[Introduction to Linear Algebra](http://www.eigenvector.com/Docs/LinAlg.pdf)
-[CS 229 Section notes on Linear Algebra](http://www.eigenvector.com/Docs/LinAlg.pdf)
-[Free linear algebra book with solutions](http://cs229.stanford.edu/section/cs229-linalg.pdf)
-Writing Equations in Forum Posts](
+* [Introduction to Linear Algebra](http://www.eigenvector.com/Docs/LinAlg.pdf)
+* [CS 229 Section notes on Linear Algebra](http://www.eigenvector.com/Docs/LinAlg.pdf)
+* [Free linear algebra book with solutions](http://cs229.stanford.edu/section/cs229-linalg.pdf)
 
-Short Guide to LaTex Math Here is a quick guide to entering equations using LaTeX. The directives are inserted between two dollar signs. For example, the fraction for one half is entered as \$\$ \frac{1}{2}\$\$ ,(without any escapes before the dollar signs) and displays as 12.
-LaTex Math Tutorial
-Online E-Books
+### Writing Equations in Forum Posts ###
+
+* [Short Guide to LaTex Math](www.ams.org/publications/authors/tex/amslatex) Here is a quick guide to entering equations using LaTeX. The directives are inserted between two dollar signs. For example, the fraction for one half is entered as \$\$ \frac{1}{2}\$\$ ,(without any escapes before the dollar signs) and displays as 12.
+* [LaTex Math Tutorial](http://www.forkosh.com/mimetextutorial.html)
+
+### Online E-Books ###
 
 Introduction to Machine Learning by Nils J. Nilsson
 Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan
