@@ -8,7 +8,7 @@
 
 ### Informative Web Sites ###
 
-* [A Brief Introduction to Machine Learning]( https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf)by  Gunnar Ratsch
+* [A Brief Introduction to Machine Learning]( https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf) by Gunnar Ratsch
 
 * [CS229 Machine Learning](http://cs229.stanford.edu/materials.html)- Stanford - This is the Stanford CS course on Machine Learning that Prof Ng has taught for a number of years. The material parallels the Coursera course, but covers some additional topics and goes into much more depth on the mathematics.
 
