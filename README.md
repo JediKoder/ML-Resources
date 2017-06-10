@@ -29,10 +29,10 @@
 
 ### Online E-Books ###
 
-Introduction to Machine Learning by Nils J. Nilsson
-Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan
-Introduction to Data Science by Jeffrey Stanton The link appears to be dead, here is another.
-Bayesian Reasoning and Machine Learning by David Barber
+* [Introduction to Machine Learning](http://robotics.stanford.edu/~nilsson/MLBOOK.pdf) by Nils J. Nilsson
+* [Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan](http://alex.smola.org/drafts/thebook.pdf)
+* [Introduction to Data Science by Jeffrey Stanton](http://surface.syr.edu/cgi/viewcontent.cgi?article=1165&context=istpub)
+* [Bayesian Reasoning and Machine Learning by David Barber] (http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
 Understanding Machine Learning, © 2014 by Shai Shalev-Shwartz and Shai Ben-David
 Elements of Statistical Learning, by Hastie, Tibshirani, and Friedman
 Pattern Recognition and Machine Learning, by Christopher M. Bishop
@@ -112,8 +112,6 @@ Castillo, Carlos, Marcelo Mendoza, and Barbara Poblete. "Information credibility
 Norman, Kenneth A., Sean M. Polyn, Greg J. Detre, and James V. Haxby. "Beyond mind-reading: multi-voxel pattern analysis of fMRI data."Trends in cognitive sciences 10, no. 9 (2006): 424-430.
 Pereira, Francisco, Tom Mitchell, and Matthew Botvinick. "Machine learning classifiers and fMRI: a tutorial overview." Neuroimage 45, no. 1 Suppl (2009): S199.
 Dean Pomerleau Autonomous Driving (link)
-Deep Learning School, Sept. 2016 (URL includes links to video archives)
-
-https://www.bayareadlschool.org/
+* [Deep Learning School, Sept. 2016](https://www.bayareadlschool.org/)
 
 
