@@ -53,13 +53,14 @@
 * [Machine Learning UBC 2013 - Youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 * [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 
-Machine Learning frameworks and libraries in Python
+### Machine Learning frameworks and libraries in Python ###
 
-PyBrain: Various machine learning algorithms for Python programmers. Focuses on neural networks.
-PyML: Machine Learning object oriented framework for Linux and Mac OS X focused on classification and regression by Asa Ben-Hur.
-scikit-learn: Comprehensive Machine Learning toolkit for Python (based on SciPy with numpy and mathplotlib). "Ipython -pylab" provides interactive environment like Octave - scikit-learn provides optimized implementations of pretty well everything (using fast libraries like liblinear and libsvm). Should be used instead of Octave for research prototyping, production and especially for education.
-tensor-flow: open source software library for machine learning.
-Machine Learning frameworks and libraries in C++
+* [PyBrain](http://pybrain.org) : Various machine learning algorithms for Python programmers. Focuses on neural networks.
+* [PyML](http://pyml.sourceforge.net): Machine Learning object oriented framework for Linux and Mac OS X focused on classification and regression by Asa Ben-Hur.
+* [scikit-learn](http://scikit-learn.org/stable/): Comprehensive Machine Learning toolkit for Python (based on SciPy with numpy and mathplotlib). "Ipython -pylab" provides interactive environment like Octave - scikit-learn provides optimized implementations of pretty well everything (using fast libraries like liblinear and libsvm). Should be used instead of Octave for research prototyping, production and especially for education.
+* [tensor-flow](https://www.tensorflow.org): open source software library for machine learning.
+
+### Machine Learning frameworks and libraries in C++ ###
 
 mlpack: a scalable C++ machine learning library.
 SHARK: a fast, modular, feature-rich open-source C++ machine learning library.
