@@ -10,14 +10,15 @@
 
 * [A Brief Introduction to Machine Learning]( https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf)by  Gunnar Ratsch
 * [CS229 Machine Learning](http://cs229.stanford.edu/materials.html)- Stanford - This is the Stanford CS course on Machine Learning that Prof Ng has taught for a number of years. The material parallels the Coursera course, but covers some additional topics and goes into much more depth on the mathematics.
-* Dive into Machine Learning compiles a variety of resources, taking a hack-first approach so you can get "hooked." Prof. Ng's course is the centerpiece.
-* Cornell Virtual Workshop Training on programming languages, parallel computing, code improvement, and data analysis.
-Linear Algebra
+* [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) compiles a variety of resources, taking a hack-first approach so you can get "hooked." Prof. Ng's course is the centerpiece.
+* [Cornell Virtual Workshop](https://cvw.cac.cornell.edu/default) Training on programming languages, parallel computing, code improvement, and data analysis.
 
-Introduction to Linear Algebra
-CS 229 Section notes on Linear Algebra
-Free linear algebra book with solutions
-Writing Equations in Forum Posts
+### Linear Algebra ###
+
+[Introduction to Linear Algebra](http://www.eigenvector.com/Docs/LinAlg.pdf)
+[CS 229 Section notes on Linear Algebra](http://www.eigenvector.com/Docs/LinAlg.pdf)
+[Free linear algebra book with solutions](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+Writing Equations in Forum Posts](
 
 Short Guide to LaTex Math Here is a quick guide to entering equations using LaTeX. The directives are inserted between two dollar signs. For example, the fraction for one half is entered as \$\$ \frac{1}{2}\$\$ ,(without any escapes before the dollar signs) and displays as 12.
 LaTex Math Tutorial
