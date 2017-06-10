@@ -32,24 +32,27 @@
 * [Introduction to Machine Learning](http://robotics.stanford.edu/~nilsson/MLBOOK.pdf) by Nils J. Nilsson
 * [Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan](http://alex.smola.org/drafts/thebook.pdf)
 * [Introduction to Data Science by Jeffrey Stanton](http://surface.syr.edu/cgi/viewcontent.cgi?article=1165&context=istpub)
-* [Bayesian Reasoning and Machine Learning by David Barber] (http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
-Understanding Machine Learning, © 2014 by Shai Shalev-Shwartz and Shai Ben-David
-Elements of Statistical Learning, by Hastie, Tibshirani, and Friedman
-Pattern Recognition and Machine Learning, by Christopher M. Bishop
-Textbook information
+* [Bayesian Reasoning and Machine Learning by David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
+* [Understanding Machine Learning, © 2014 by Shai Shalev-Shwartz and Shai Ben-David](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+* [Elements of Statistical Learning, by Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+* [Pattern Recognition and Machine Learning, by Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
-(none)
-Advanced classes online
+### Textbook information ###
 
-Andrew Ng's advanced lectures - YouTube
-Machine Learning - CosmoLearning
-Machine Learning - AcademicEarth
-Learning from Data - Caltech
-Machine Learning - MIT
-Machine Learning - U. of Washington - via Coursera
-Big Data, Large Scale Machine Learning - NYU (not a MOOC)
-Machine Learning UBC 2013 - Youtube
-Neural Networks Demystified
+* [none]
+
+### Advanced classes online ###
+
+* [Andrew Ng's advanced lectures - YouTube](https://www.youtube.com/course?list=ECA89DCFA6ADACE599)
+* [Machine Learning - CosmoLearning](https://cosmolearning.org/courses/machine-learning/)
+* [Machine Learning - AcademicEarth](http://academicearth.org/online-college-courses/)
+* [Learning from Data - Caltech](http://work.caltech.edu/previous.html)
+* [Machine Learning - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+* [Machine Learning - U. of Washington - via Coursera](https://www.coursera.org/specializations/machine-learning)
+* [Big Data, Large Scale Machine Learning - NYU (not a MOOC)](http://cilvr.cs.nyu.edu/doku.php?id=courses:bigdata:start)
+* [Machine Learning UBC 2013 - Youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
+* [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+
 Machine Learning frameworks and libraries in Python
 
 PyBrain: Various machine learning algorithms for Python programmers. Focuses on neural networks.
