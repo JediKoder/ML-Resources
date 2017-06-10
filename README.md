@@ -2,17 +2,17 @@
  A collection of various resources as I got thru the course
  
  
-Useful Resources
+#Useful Resources#
 
-Below is a compilation of web links. Hopefully these resources will help improve your learning experience.
+##Below is a compilation of web links. Hopefully these resources will help improve your learning experience.##
 
-Informative Web Sites
+###Informative Web Sites###
 
-Java Applets for Machine Learning Note: The applets are in German ** Page not accesible. Message: The page you want to visit cannot be displayed.
-A Brief Introduction to Machine Learning by Gunnar Ratsch
-CS229 Machine Learning - Stanford - This is the Stanford CS course on Machine Learning that Prof Ng has taught for a number of years. The material parallels the Coursera course, but covers some additional topics and goes into much more depth on the mathematics.
-Dive into Machine Learning compiles a variety of resources, taking a hack-first approach so you can get "hooked." Prof. Ng's course is the centerpiece.
-Cornell Virtual Workshop Training on programming languages, parallel computing, code improvement, and data analysis.
+*(Java Applets for Machine Learning) Note: The applets are in German ** Page not accesible. Message: The page you want to visit cannot be displayed.
+*A Brief Introduction to Machine Learning by Gunnar Ratsch
+*CS229 Machine Learning - Stanford - This is the Stanford CS course on Machine Learning that Prof Ng has taught for a number of years. The material parallels the Coursera course, but covers some additional topics and goes into much more depth on the mathematics.
+*Dive into Machine Learning compiles a variety of resources, taking a hack-first approach so you can get "hooked." Prof. Ng's course is the centerpiece.
+*Cornell Virtual Workshop Training on programming languages, parallel computing, code improvement, and data analysis.
 Linear Algebra
 
 Introduction to Linear Algebra
