@@ -120,10 +120,10 @@ Kriegel, Hans-Peter, Peer Kröger, and Arthur Zimek. ["Outlier detection techniq
 
 ### Interesting applications ###
 
-Castillo, Carlos, Marcelo Mendoza, and Barbara Poblete. ["Information credibility on Twitter."](http://www.ra.ethz.ch/cdstore/www2011/proceedings/p675.pdf) In Proceedings of the 20th international conference on World wide web, pp. 675-684. ACM, 2011.
-Norman, Kenneth A., Sean M. Polyn, Greg J. Detre, and James V. Haxby. ["Beyond mind-reading: multi-voxel pattern analysis of fMRI data.](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/NormanEtAlTICS.pdf)"Trends in cognitive sciences 10, no. 9 (2006): 424-430.
-Pereira, Francisco, Tom Mitchell, and Matthew Botvinick. ["Machine learning classifiers and fMRI: a tutorial overview."](http://www.stanford.edu/group/bad/talks/classification_fmri.pdf) Neuroimage 45, no. 1 Suppl (2009): S199.
-Dean Pomerleau Autonomous Driving (link)
+* Castillo, Carlos, Marcelo Mendoza, and Barbara Poblete. ["Information credibility on Twitter."](http://www.ra.ethz.ch/cdstore/www2011/proceedings/p675.pdf) In Proceedings of the 20th international conference on World wide web, pp. 675-684. ACM, 2011.
+* Norman, Kenneth A., Sean M. Polyn, Greg J. Detre, and James V. Haxby. ["Beyond mind-reading: multi-voxel pattern analysis of fMRI data.](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/NormanEtAlTICS.pdf)"Trends in cognitive sciences 10, no. 9 (2006): 424-430.
+* Pereira, Francisco, Tom Mitchell, and Matthew Botvinick. ["Machine learning classifiers and fMRI: a tutorial overview."](http://www.stanford.edu/group/bad/talks/classification_fmri.pdf) Neuroimage 45, no. 1 Suppl (2009): S199.
+* Dean Pomerleau Autonomous Driving (link)
 * [Deep Learning School, Sept. 2016](https://www.bayareadlschool.org/)[Github link if first not working](https://github.com/lamblin/bayareadlschool)
 
 
