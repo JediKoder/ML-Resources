@@ -62,60 +62,68 @@
 
 ### Machine Learning frameworks and libraries in C++ ###
 
-mlpack: a scalable C++ machine learning library.
-SHARK: a fast, modular, feature-rich open-source C++ machine learning library.
-Dlib-ml: A Machine Learning Toolkit.
-Waffles: A collection of command-line tools for researchers in machine learning, data mining, and related fields. All of the functionality is also provided in a clean C++ class library.
-MLC++: a library of C++ classes for supervised machine learning.
-Machine Learning frameworks and libraries in Java
+* [mlpack](http://www.mlpack.org/): a scalable C++ machine learning library.
+* [SHARK](http://image.diku.dk/shark/sphinx_pages/build/html/index.html): a fast, modular, feature-rich open-source C++ machine learning library.
+* [Dlib-ml](http://dlib.net/ml.html): A Machine Learning Toolkit.
+* [Waffles](http://waffles.sourceforge.net/): A collection of command-line tools for researchers in machine learning, data mining, and related fields. All of the functionality is also provided in a clean C++ class library.
+* [MLC++](http://www.sgi.com/tech/mlc/): a library of C++ classes for supervised machine learning.
 
-Weka: A collection of machine learning algorithms for data mining tasks.
-Apache Mahout: A scalable machine learning library .
-LIBLINEAR : LIBLINEAR -- A Library for Large Linear Classification. I think this link was mentioned in one of the lectures.
-Deeplearning4j: Open-source, distributed, deep-learning library for the JVM. Integrated with Hadoop and Spark, DL4J is designed to be used on distributed GPUs and CPUs.
-Machine Learning Data Sets
+### Machine Learning frameworks and libraries in Java ###
 
-Links to many ML data repositories
-UCI Machine Learning Repository - Univ of California Irvine
-Kaggle: Machine Learning and data mining activities
-COCO-Text: Dataset for Text Detection and Recognition
-Octave packages
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka/): A collection of machine learning algorithms for data mining tasks.
+* [Apache Mahout](http://mahout.apache.org/): A scalable machine learning library .
+* [LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)A Library for Large Linear Classification. I think this link was mentioned in one of the lectures.
+* [Deeplearning4j](http://deeplearning4j.org/): Open-source, distributed, deep-learning library for the JVM. Integrated with Hadoop and Spark, DL4J is designed to be used on distributed GPUs and CPUs.
 
-http://octave.sourceforge.net/ GNU Octave packages development and repository.
-Octave online
+### Machine Learning Data Sets ###
 
-http://octave-online.net/
-Translation Projects
+* [Links to many ML data repositories](http://www.kdnuggets.com/datasets/)
+* [UCI Machine Learning Repository - Univ of California Irvine](http://archive.ics.uci.edu/ml/)
+* [Kaggle: Machine Learning and data mining activities](http://www.kaggle.com/)
+* [COCO-Text: Dataset for Text Detection and Recognition](http://vision.cornell.edu/se3/coco-text/)
 
-Mexico Study Group Notes
-Useful papers
+### Octave packages ###
 
-Massive collection of academic papers are available here: Machine Learning Library.
-General
+* [GNU Octave packages development and repository.](http://octave.sourceforge.net/)
 
-Domingos, Pedro. "A few useful things to know about machine learning." Communications of the ACM 55, no. 10 (2012): 78-87
-Shewchuk, Jonathan Richard. "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain." 1994
-To understand cost functions better An Introduction To Understanding Cost Functions
-Boosting
+### Octave online ###
+* [Octave-online](http://octave-online.net/)
 
-Friedman, J. H. "Greedy Function Approximation: A Gradient Boosting Machine." (Feb. 1999a)
-Ridgeway, Greg. "Generalized Boosted Models: A guide to the gbm package." Update 1 (2007): 1.
-Rojas, Raúl. "AdaBoost and the Super Bowl of Classifiers A Tutorial Introduction to Adaptive Boosting." Freie University, Berlin (2009).
-Outlier and Anomaly Detection
+### Translation Projects ###
 
-Chandola, Varun, Arindam Banerjee, and Vipin Kumar. "Outlier detection: A survey." ACM Computing Surveys, to appear (2007).
-Kriegel, Hans-Peter, Peer Kröger, and Arthur Zimek. "Outlier detection techniques." In Tutorial at the 13th Pacific-Asia Conference on Knowledge Discovery and Data Mining. 2009.
-SVM
+* [Mexico Study Group Notes](https://share.coursera.org/wiki/index.php?title=ML:spanishMain)
 
-"An Idiot's Guide to Support Vector Machines"
-http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf
+### Useful papers ###
 
-Interesting applications
+* Massive collection of academic papers are available here: [Machine Learning Library](http://www.bradblock.com.s3-website-us-west-1.amazonaws.com/mll.html)
 
-Castillo, Carlos, Marcelo Mendoza, and Barbara Poblete. "Information credibility on Twitter." In Proceedings of the 20th international conference on World wide web, pp. 675-684. ACM, 2011.
-Norman, Kenneth A., Sean M. Polyn, Greg J. Detre, and James V. Haxby. "Beyond mind-reading: multi-voxel pattern analysis of fMRI data."Trends in cognitive sciences 10, no. 9 (2006): 424-430.
-Pereira, Francisco, Tom Mitchell, and Matthew Botvinick. "Machine learning classifiers and fMRI: a tutorial overview." Neuroimage 45, no. 1 Suppl (2009): S199.
+### General ###
+
+Domingos, Pedro. ["A few useful things to know about machine learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Communications of the ACM 55, no. 10 (2012): 78-87
+Shewchuk, Jonathan Richard. ["An Introduction to the Conjugate Gradient Method Without the Agonizing Pain."](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) 1994
+To understand cost functions better [An Introduction To Understanding Cost Functions](https://www.youtube.com/watch?v=euhATa4wgzo)
+
+### Boosting ###
+
+Friedman, J. H. ["Greedy Function Approximation: A Gradient Boosting Machine."](http://docs.salford-systems.com/GreedyFuncApproxSS.pdf)(Feb. 1999a)
+Ridgeway, Greg. ["Generalized Boosted Models: A guide to the gbm package."](http://gradientboostedmodels.googlecode.com/git-history/c532a997943c634ead7e27cdf54dbe343c2c7110/svn/pkg/inst/doc/gbm.pdfUpdate 1) (2007): 1.
+Rojas, Raúl. ["AdaBoost and the Super Bowl of Classifiers A Tutorial Introduction to Adaptive Boosting."](http://www.inf.fu-berlin.de/inst/ag-ki/adaboost4.pdf) Freie University, Berlin (2009).
+
+### Outlier and Anomaly Detection ###
+
+Chandola, Varun, Arindam Banerjee, and Vipin Kumar. ["Outlier detection: A survey."](http://www.bradblock.com.s3-website-us-west-1.amazonaws.com/Outlier_Detection_A_Survey.pdf) ACM Computing Surveys, to appear (2007).
+Kriegel, Hans-Peter, Peer Kröger, and Arthur Zimek. ["Outlier detection techniques."](http://www.dbs.ifi.lmu.de/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf) In Tutorial at the 13th Pacific-Asia Conference on Knowledge Discovery and Data Mining. 2009.
+
+### SVM ###
+
+["An Idiot's Guide to Support Vector Machines"](http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf)
+
+### Interesting applications ###
+
+Castillo, Carlos, Marcelo Mendoza, and Barbara Poblete. ["Information credibility on Twitter."](http://www.ra.ethz.ch/cdstore/www2011/proceedings/p675.pdf) In Proceedings of the 20th international conference on World wide web, pp. 675-684. ACM, 2011.
+Norman, Kenneth A., Sean M. Polyn, Greg J. Detre, and James V. Haxby. ["Beyond mind-reading: multi-voxel pattern analysis of fMRI data.](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/NormanEtAlTICS.pdf)"Trends in cognitive sciences 10, no. 9 (2006): 424-430.
+Pereira, Francisco, Tom Mitchell, and Matthew Botvinick. ["Machine learning classifiers and fMRI: a tutorial overview."](http://www.stanford.edu/group/bad/talks/classification_fmri.pdf) Neuroimage 45, no. 1 Suppl (2009): S199.
 Dean Pomerleau Autonomous Driving (link)
-* [Deep Learning School, Sept. 2016](https://www.bayareadlschool.org/)
+* [Deep Learning School, Sept. 2016](https://www.bayareadlschool.org/)[Github link if first not working](https://github.com/lamblin/bayareadlschool)
 
 
